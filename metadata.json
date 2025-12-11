@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FitAI Tracker",
+  "description": "An AI-powered fitness and nutrition tracker that uses computer vision to log meals and natural language processing to log workouts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
